@@ -1,0 +1,43 @@
+# Node modules
+**/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs
+npm-debug.log*
+
+# OS and IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# React specific
+**/coverage/
+**/.parcel-cache/
+**/.next/
+**/.expo/
+**/static/
+
+# Serverless configs
+.vercel/
+
+# Firebase (if used)
+firebase-debug.log
+
+# MongoDB dump files
+dump/
+
+# Cache
+.cache/
+
+# Misc
+*.tgz
+yarn-error.log
