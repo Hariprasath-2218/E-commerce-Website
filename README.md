@@ -51,7 +51,7 @@ npm install
 npm start
 
 # Backend
-npm run dev
+npm start
 ```
 
 ### Environment Setup
